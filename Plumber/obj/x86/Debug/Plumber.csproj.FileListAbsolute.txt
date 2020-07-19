@@ -1,0 +1,9 @@
+D:\Visual Studio 2010\Projects\Plumber\Plumber\bin\Debug\Plumber.exe
+D:\Visual Studio 2010\Projects\Plumber\Plumber\bin\Debug\Plumber.pdb
+D:\Visual Studio 2010\Projects\Plumber\Plumber\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\Plumber\Plumber\obj\x86\Debug\Plumber.Form1.resources
+D:\Visual Studio 2010\Projects\Plumber\Plumber\obj\x86\Debug\Plumber.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\Plumber\Plumber\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio 2010\Projects\Plumber\Plumber\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio 2010\Projects\Plumber\Plumber\obj\x86\Debug\Plumber.exe
+D:\Visual Studio 2010\Projects\Plumber\Plumber\obj\x86\Debug\Plumber.pdb
